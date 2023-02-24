@@ -9,7 +9,9 @@ project(
   LANGUAGES CXX
 )
 
-set(CMAKE_CXX_STANDARD 17)
+# Set C++ standard to C++20, also check test/CMakeLists.txt and standalone/CMakeLists.txt for the
+# same setting
+set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
