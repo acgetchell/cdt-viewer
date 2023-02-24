@@ -32,4 +32,4 @@ jobs:
         run: cmake --build build/standalone -j4
 
       - name: run
-        run: ./build/standalone/CDT
+        run: ./build/standalone/cdt
