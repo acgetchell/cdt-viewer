@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14...3.22)
 
-project(CDTTests LANGUAGES CXX)
+project(CDT_Tests LANGUAGES CXX)
 
 # ---- Options ----
 
