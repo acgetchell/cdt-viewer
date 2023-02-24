@@ -15,7 +15,7 @@ namespace greeter {
 
   public:
     /**
-     * @brief Creates a new greeter
+     * @brief Creates a new cdt
      * @param name the name to greet
      */
     Greeter(std::string name);
